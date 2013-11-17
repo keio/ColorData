@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        id        = "com.hist.colordata"
+        version   = "99.999">
 
-    <name>Hello World</name>
+    <name>ColorData</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Receives data from color sensor connected to Arduino via Bluetooth. Created by students at HiST in 2013.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+        Ketil
     </author>
 
     <!--
